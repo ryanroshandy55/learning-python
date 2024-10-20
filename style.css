@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin:20px;
+}
+
+.konten-berita{
+    display: flex;
+    width: auto;
+    height: 100px;
+}
+.konten-berita img{
+    width: 280px;
+    height: 160px;
+}
+
+.konten-berita .berita1 {
+    padding: 20px;
+}
+.judul{
+    font-size: 10px;
+}
+/* .konten-berita .berita1 .metadata{
+    
+} */
+
+.konten-berita .berita1 .metadata span{
+    display: flex;
+    
+}
+
+.konten-berita .berita1 .teks{
+    color: blueviolet;
+}
