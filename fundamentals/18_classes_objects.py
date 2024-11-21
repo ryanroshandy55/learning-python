@@ -1,6 +1,6 @@
 # Python is an object oriented programming language
 # Almost everything in Python is an object., with its properties and methods.
-# A class i s like an object constructor, or a "blueprient" for creating objects
+# A class i s like an object constructor, or a "blueprint" for creating objects
 
 # create class
 class MyClass:
@@ -36,7 +36,7 @@ print(p1)
 
 # The __str__() Function
 
-# The __str__() function controls what should be returned when the class object is prepresented as a string
+# The __str__() function controls what should be returned when the class object is represented as a string
 # If the __str__() function is not set, the string representation of the object is returned:
 
 class Person:

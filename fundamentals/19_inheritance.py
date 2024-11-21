@@ -22,6 +22,7 @@ x.printname()
 # Output
 # John Doe
 
+
 # Create a Child Class
 # To create a class that inherits the functionality from another class, 
 # send the parent class as a parameter when creating the child class:
