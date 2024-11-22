@@ -1,0 +1,14 @@
+q for exit git bash or ctrl + q  // mean quit
+
+git 
+    config --list   // check user 
+    init        // initialize git 
+    branch      // branch
+    add .       // add file - folder to local storage
+    commit -m   // commit file - folder
+    push        // push new file - folder commited
+    fetch       // update file
+    checkout    // change branch
+
+update file using fetch
+init
