@@ -30,4 +30,4 @@ ypoints = np.array([3, 8, 1, 10, 5, 7])
 plt.plot(ypoints)
 
 # plt.show()
-plt.savefig("fundamentals\\33_matplotlib\\result\\testplotting.png")
+plt.savefig("fundamentals\\34_matplotlib\\result\\testplotting.png")

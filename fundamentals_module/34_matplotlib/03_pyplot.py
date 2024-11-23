@@ -7,5 +7,5 @@ ypoints = np.array([0, 250])
 
 plt.plot(xpoints, ypoints)
 # plt.show()
-plt.savefig('fundamentals\\33_matplotlib\\result\\testplot.png')
-plt.savefig('fundamentals\\33_matplotlib\\result\\testplot.jpg')
+plt.savefig('fundamentals\\34_matplotlib\\result\\testplot.png')
+plt.savefig('fundamentals\\34_matplotlib\\result\\testplot.jpg')
