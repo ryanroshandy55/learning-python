@@ -11,3 +11,25 @@ import numpy as np
 arr = np.array([3, 2, 0, 1])
 
 print(np.sort(arr))
+
+# Note This method returns a copy of the array, leaving the original array unchanged
+# You can also sort arrays of strings, or any other data type:
+
+# Sort the array alphabetically
+arr = np.array(['banana', 'chherry', 'apple'])
+
+print(np.sort(arr))
+
+# Sort a boolean array
+arr = np.array([True, False, True])
+
+print(np.sort(arr))
+
+# Sorting a 2-D Array
+# If you use the sort() method on a 2-D array, both arrays will be sorted:
+
+# Example
+# Sort a 2-D array:
+arr = np.array([[3, 2, 4], [5, 0, 1]])
+
+print(np.sort(arr))
